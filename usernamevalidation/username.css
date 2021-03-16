@@ -1,0 +1,30 @@
+body{
+    background-color: thistle;
+}
+h1{
+    font-family: sans-serif;
+    text-transform: uppercase;
+
+}
+.content{
+    width: 400px;
+    top: 50%;
+    left:50%;
+    margin-top: 200px;
+    margin-left: 500px;
+    padding: 50px;
+    border: 1px solid black;
+    text-align: center;
+    box-sizing:content-box;
+    background-color: rgb(196, 44, 120);
+}
+button{
+    margin: 10px;
+    background-color: green;
+}
+#table{ 
+    left:60%;
+    margin-top: 50px;
+    margin-left: 700px;  
+    text-align: center;   
+}

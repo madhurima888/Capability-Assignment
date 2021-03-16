@@ -1,0 +1,21 @@
+.main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 500px;
+  }
+  #btn{
+    height: 40px;
+    width: 100px;
+}
+  #div{
+    display:flex;
+    height: 300px;
+    flex-direction: column;
+    justify-content: space-evenly;
+    } 
+    #div> img{
+   
+        height: 100px;
+        width: 100px;
+    }
