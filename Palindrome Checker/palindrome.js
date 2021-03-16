@@ -15,6 +15,6 @@ function checkPalindrome() {
         else {
             result = str + " is not a palindrome";
         }
-        document.getElementById("result").innerHTML = result;
+        document.getElementById("result").innerHTML = result ;
     }
 }
